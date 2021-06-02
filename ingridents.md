@@ -1,10 +1,7 @@
-1) cheese
-2)tomato
-3) onion
-4)capsicum
-5)pizza sauce
-6)oil
-7)microwave
-8)a microvave safe glass bowl
-9) maida
-10) water
+1) cheese                  6)oil
+2)tomato                   7)microwave
+ 3) onion                  8)a microvave safe glass bowl
+4)capsicum                 9) maida              10) water
+5)pizza sauce                          
+                          -
+
